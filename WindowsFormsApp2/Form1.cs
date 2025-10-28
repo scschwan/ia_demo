@@ -2013,6 +2013,24 @@ namespace WindowsFormsApp2
 
         }
 
+        private void defect_check_btn_Click(object sender, EventArgs e)
+        {
+            //불량검사 중지
+            if (Global.defectCheckYN)
+            {
+                Global.defectCheckYN = false;
+                defect_check_btn.BackColor = Color.Red;
+                defect_check_btn.Text = "불량검사 중단 중";
+            }
+            //불량검사 재개
+            else
+            {
+                Global.defectCheckYN = true;
+                defect_check_btn.BackColor = Color.Green;
+                defect_check_btn.Text = "불량검사 수행 중";
+            }
+        }
+
         private const string BaseFolder = "./SystemLog";
 
         public static void SystemLogMessage(string message)
@@ -2068,6 +2086,10 @@ namespace WindowsFormsApp2
         public static bool tempImageDefectCheckFlag = false;
         public static bool originImageRefreshFlag = false;
         public static bool gammaImageRefreshFlag = false;
+
+        //2025.10.28
+        //불량 검사 check flag 추가
+        public static bool defectCheckYN = true;
 
 
         public static double x_offset = 96.737;

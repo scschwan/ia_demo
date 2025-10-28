@@ -63,6 +63,8 @@ namespace WindowsFormsApp2
             this.button9 = new System.Windows.Forms.Button();
             this.button8 = new System.Windows.Forms.Button();
             this.tabPage3 = new System.Windows.Forms.TabPage();
+            this.defect_check_btn = new System.Windows.Forms.Button();
+            this.button15 = new System.Windows.Forms.Button();
             this.label48 = new System.Windows.Forms.Label();
             this.label47 = new System.Windows.Forms.Label();
             this.textBox20 = new System.Windows.Forms.TextBox();
@@ -143,7 +145,6 @@ namespace WindowsFormsApp2
             this.label25 = new System.Windows.Forms.Label();
             this.label26 = new System.Windows.Forms.Label();
             this.label27 = new System.Windows.Forms.Label();
-            this.button15 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -611,6 +612,7 @@ namespace WindowsFormsApp2
             // tabPage3
             // 
             this.tabPage3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.tabPage3.Controls.Add(this.defect_check_btn);
             this.tabPage3.Controls.Add(this.button15);
             this.tabPage3.Controls.Add(this.label48);
             this.tabPage3.Controls.Add(this.label47);
@@ -645,6 +647,34 @@ namespace WindowsFormsApp2
             this.tabPage3.Size = new System.Drawing.Size(737, 584);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "Image Page";
+            // 
+            // defect_check_btn
+            // 
+            this.defect_check_btn.BackColor = System.Drawing.Color.Green;
+            this.defect_check_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.defect_check_btn.Font = new System.Drawing.Font("맑은 고딕", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.defect_check_btn.ForeColor = System.Drawing.Color.Transparent;
+            this.defect_check_btn.Location = new System.Drawing.Point(523, 453);
+            this.defect_check_btn.Margin = new System.Windows.Forms.Padding(2);
+            this.defect_check_btn.Name = "defect_check_btn";
+            this.defect_check_btn.Size = new System.Drawing.Size(189, 75);
+            this.defect_check_btn.TabIndex = 291;
+            this.defect_check_btn.Text = "불량검사 수행 중";
+            this.defect_check_btn.UseVisualStyleBackColor = false;
+            this.defect_check_btn.Click += new System.EventHandler(this.defect_check_btn_Click);
+            // 
+            // button15
+            // 
+            this.button15.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.button15.ForeColor = System.Drawing.Color.Black;
+            this.button15.Location = new System.Drawing.Point(523, 362);
+            this.button15.Margin = new System.Windows.Forms.Padding(2);
+            this.button15.Name = "button15";
+            this.button15.Size = new System.Drawing.Size(189, 75);
+            this.button15.TabIndex = 290;
+            this.button15.Text = "Auto Image Coodinate Edit";
+            this.button15.UseVisualStyleBackColor = true;
+            this.button15.Click += new System.EventHandler(this.button15_Click_1);
             // 
             // label48
             // 
@@ -1546,19 +1576,6 @@ namespace WindowsFormsApp2
             this.label27.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label27.Visible = false;
             // 
-            // button15
-            // 
-            this.button15.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button15.ForeColor = System.Drawing.Color.Black;
-            this.button15.Location = new System.Drawing.Point(523, 362);
-            this.button15.Margin = new System.Windows.Forms.Padding(2);
-            this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(189, 75);
-            this.button15.TabIndex = 290;
-            this.button15.Text = "Auto Image Coodinate Edit";
-            this.button15.UseVisualStyleBackColor = true;
-            this.button15.Click += new System.EventHandler(this.button15_Click_1);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -1739,6 +1756,7 @@ namespace WindowsFormsApp2
         private System.Windows.Forms.Label label46;
         private System.Windows.Forms.TextBox textBox19;
         private System.Windows.Forms.Button button15;
+        private System.Windows.Forms.Button defect_check_btn;
     }
 }
 

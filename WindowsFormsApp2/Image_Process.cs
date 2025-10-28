@@ -1549,91 +1549,96 @@ namespace WindowsFormsApp2
 
             //불량 검출 로직 수행(이미지 내 묻은 내역 확인)
 
-            //Product 2
-            //I , A 검사
-            if ("I".Equals(product1.Info) || "A".Equals(product1.Info))
+            if (Global.defectCheckYN)
             {
-                (crop1, crop1_defectArea) = DetectDefectAreaIAndA(crop1, product1.Contour, product1.BoundingRect.X, product1.BoundingRect.Y);
-                Console.WriteLine($"crop1 defect Area : {crop1_defectArea}");
-                if (crop1_defectArea > Global.defectArea)
+                //Product 1
+                //I , A 검사
+                if ("I".Equals(product1.Info) || "A".Equals(product1.Info))
                 {
-                    Console.WriteLine($"crop1 defect Area => Defect NG");
-                    Global.detectLeft = false;
+                    (crop1, crop1_defectArea) = DetectDefectAreaIAndA(crop1, product1.Contour, product1.BoundingRect.X, product1.BoundingRect.Y);
+                    Console.WriteLine($"crop1 defect Area : {crop1_defectArea}");
+                    if (crop1_defectArea > Global.defectArea)
+                    {
+                        Console.WriteLine($"crop1 defect Area => Defect NG");
+                        Global.detectLeft = false;
+                    }
+
+                    /* double area = Cv2.ContourArea(product1.Contour);
+                     if ("I".Equals(product1.Info) && area < 5700) {
+                         Console.WriteLine($"crop1 I Area Incorrect :{area} => Defect NG ");
+                         Global.detectLeft = false;
+                     }
+
+                     if ("A".Equals(product1.Info) && area > 5900)
+                     {
+                         Console.WriteLine($"crop1 A Area Incorrect :{area} => Defect NG ");
+                         Global.detectLeft = false;
+                     }*/
+                }
+                //PIN 검사
+                else
+                {
+                    bool circleErrorYN = true;
+                    (crop1, crop1_defectArea, circleErrorYN) = DetectDefectAreaPIN(crop1, product1.Contour, product1.BoundingRect.X, product1.BoundingRect.Y);
+                    Console.WriteLine($"crop1 defect Area : {crop1_defectArea}");
+                    if (crop1_defectArea > Global.defectArea / 3)
+                    {
+                        Console.WriteLine($"crop1 defect Area => Defect NG");
+                        Global.detectLeft = false;
+                    }
+
+                    if (!circleErrorYN)
+                    {
+                        Global.detectLeft = circleErrorYN;
+                    }
+
                 }
 
-                /* double area = Cv2.ContourArea(product1.Contour);
-                 if ("I".Equals(product1.Info) && area < 5700) {
-                     Console.WriteLine($"crop1 I Area Incorrect :{area} => Defect NG ");
-                     Global.detectLeft = false;
-                 }
-
-                 if ("A".Equals(product1.Info) && area > 5900)
-                 {
-                     Console.WriteLine($"crop1 A Area Incorrect :{area} => Defect NG ");
-                     Global.detectLeft = false;
-                 }*/
-            }
-            //PIN 검사
-            else
-            {
-                bool circleErrorYN = true;
-                (crop1, crop1_defectArea, circleErrorYN) = DetectDefectAreaPIN(crop1, product1.Contour, product1.BoundingRect.X, product1.BoundingRect.Y);
-                Console.WriteLine($"crop1 defect Area : {crop1_defectArea}");
-                if (crop1_defectArea > Global.defectArea / 3 )
+                //Product 2
+                if ("I".Equals(product2.Info) || "A".Equals(product2.Info))
                 {
-                    Console.WriteLine($"crop1 defect Area => Defect NG");
-                    Global.detectLeft = false;
+                    (crop2, crop2_defectArea) = DetectDefectAreaIAndA(crop2, product2.Contour, product2.BoundingRect.X, product2.BoundingRect.Y);
+                    Console.WriteLine($"crop2 defect Area : {crop2_defectArea}");
+                    if (crop2_defectArea > Global.defectArea)
+                    {
+                        Console.WriteLine($"crop2 defect Area => Defect NG");
+                        Global.detectRight = false;
+                    }
+
+                    /*double area = Cv2.ContourArea(product2.Contour);
+                    if ("I".Equals(product2.Info) && area < 5700)
+                    {
+                        Console.WriteLine($"crop2 I Area Incorrect :{area} => Defect NG ");
+                        Global.detectRight = false;
+                    }
+
+                    if ("A".Equals(product2.Info) && area > 5900)
+                    {
+                        Console.WriteLine($"crop2 A Area Incorrect :{area} => Defect NG ");
+                        Global.detectRight = false;
+                    }*/
+
+
+                }
+                //PIN 검사
+                else
+                {
+                    bool circleErrorYN = true;
+
+                    (crop2, crop2_defectArea, circleErrorYN) = DetectDefectAreaPIN(crop2, product2.Contour, product2.BoundingRect.X, product2.BoundingRect.Y);
+                    Console.WriteLine($"crop2 defect Area : {crop2_defectArea}");
+                    if (crop2_defectArea > Global.defectArea / 3)
+                    {
+                        Console.WriteLine($"crop2 defect Area => Defect NG");
+                        Global.detectRight = false;
+                    }
+
+                    if (!circleErrorYN)
+                    {
+                        Global.detectRight = circleErrorYN;
+                    }
                 }
 
-                if (!circleErrorYN)
-                {
-                    Global.detectLeft = circleErrorYN;
-                }
-                
-            }
-
-            //Product 2
-            if ("I".Equals(product2.Info) || "A".Equals(product2.Info))
-            {
-                (crop2, crop2_defectArea) = DetectDefectAreaIAndA(crop2, product2.Contour, product2.BoundingRect.X, product2.BoundingRect.Y);
-                Console.WriteLine($"crop2 defect Area : {crop2_defectArea}");
-                if (crop2_defectArea > Global.defectArea)
-                {
-                    Console.WriteLine($"crop2 defect Area => Defect NG");
-                    Global.detectRight = false;
-                }
-
-                /*double area = Cv2.ContourArea(product2.Contour);
-                if ("I".Equals(product2.Info) && area < 5700)
-                {
-                    Console.WriteLine($"crop2 I Area Incorrect :{area} => Defect NG ");
-                    Global.detectRight = false;
-                }
-
-                if ("A".Equals(product2.Info) && area > 5900)
-                {
-                    Console.WriteLine($"crop2 A Area Incorrect :{area} => Defect NG ");
-                    Global.detectRight = false;
-                }*/
-
-
-            }
-            //PIN 검사
-            else
-            {
-                bool circleErrorYN = true;
-                (crop2, crop2_defectArea, circleErrorYN) = DetectDefectAreaPIN(crop2, product2.Contour, product2.BoundingRect.X, product2.BoundingRect.Y);
-                Console.WriteLine($"crop2 defect Area : {crop2_defectArea}");
-                if (crop2_defectArea > Global.defectArea /3)
-                {
-                    Console.WriteLine($"crop2 defect Area => Defect NG");
-                    Global.detectRight = false;
-                }
-
-                if (!circleErrorYN)
-                {
-                    Global.detectRight = circleErrorYN;
-                }
             }
 
 
@@ -1843,7 +1848,8 @@ namespace WindowsFormsApp2
         }
         */
 
-        public static (Mat resultImage, double area, bool circleErrorYN) DetectDefectAreaPIN(Mat inputImage, OpenCvSharp.Point[] contour, int X, int Y)
+        public static (Mat resultImage, double area, bool circleErrorYN) DetectDefectAreaPIN
+            (Mat inputImage, OpenCvSharp.Point[] contour, int X, int Y)
         {
             // contour 좌표 보정
             OpenCvSharp.Point[] adjustedContour = new OpenCvSharp.Point[contour.Length];
@@ -2318,6 +2324,17 @@ namespace WindowsFormsApp2
 
                 float newX = point.X;
                 float newY = point.Y;
+
+                //2025.10.28
+                //-90 < angle < 0 일 경우 y값 추가 보정 필요
+                if (!reverseYN  && Math.Abs(angle) < 100)
+                {
+                    double ratio = (absAngle - 0) / 100;
+                    //distance = 6.0 + (ratio * 5.0); // 3에서 5 사이로 보간
+                    distance = 4.0+ (ratio * 2.0); // 에서 5 사이로 보간
+
+                    newY = point.Y + (float)(Math.Sin(radians) * distance);
+                }
 
                 return new Point2f(newX, newY);
             }

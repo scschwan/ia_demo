@@ -1,0 +1,22 @@
+{
+  "binaryThresh": 56,
+  "binaryThresh2": 110,
+  "defectbinaryThresh": 130,
+  "defectArea": 24,
+  "detectLimitSize": 65,
+  "originImageExposeTime": 26000,
+  "gammaImageExposeTime": 25000,
+  "xMoveCoodinate": 620,
+  "yMoveCoodinate": 482,
+  "feederViveMaxHeight": 8000,
+  "feederViveMinHeight": 22500,
+  "feederViveDulation": 500,
+  "feederAfterGrabDuration": 300,
+  "maxFeederViveCount": 3,
+  "feederVivePower": 39,
+  "HopperViveDulation": 500,
+  "xPixelRate": -0.131818,
+  "yPixelRate": 0.131818,
+  "x_offset": 97.0,
+  "y_offset": 389.5
+}

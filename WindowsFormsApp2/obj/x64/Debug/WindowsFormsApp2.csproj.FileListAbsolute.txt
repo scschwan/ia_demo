@@ -1,0 +1,172 @@
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe.config
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.pdb
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Basler.Pylon.dll
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.dll
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Buffers.dll
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Memory.dll
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.xml
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Buffers.xml
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.pdb
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.xml
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Memory.xml
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Basler.Pylon.xml
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.exe
+C:\Users\Dev-SW\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.pdb
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe.config
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.pdb
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Basler.Pylon.dll
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.dll
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.Extensions.dll
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Buffers.dll
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.dll
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Memory.dll
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.dll
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.xml
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.Extensions.xml
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Buffers.xml
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.pdb
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.xml
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Memory.xml
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.xml
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Basler.Pylon.xml
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Form1.resources
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.exe
+E:\2TB-G\2024년\창업\24년 9월 IA코리아 전시회\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.pdb
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe.config
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.pdb
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Basler.Pylon.dll
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.dll
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.Extensions.dll
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Buffers.dll
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.dll
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Memory.dll
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.xml
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.Extensions.xml
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Buffers.xml
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.pdb
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.xml
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Memory.xml
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Basler.Pylon.xml
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Form1.resources
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.exe
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.pdb
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsF.EA766B00.Up2Date
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe.config
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.pdb
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Basler.Pylon.dll
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.dll
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Buffers.dll
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.dll
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Memory.dll
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Basler.Pylon.xml
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.xml
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Buffers.xml
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.pdb
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.xml
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Memory.xml
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Form1.resources
+C:\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsF.EA766B00.Up2Date
+C:\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.exe
+C:\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.pdb
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe.config
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.pdb
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\Basler.Pylon.dll
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.dll
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Buffers.dll
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.dll
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Memory.dll
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\Basler.Pylon.xml
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.xml
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Buffers.xml
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.pdb
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.xml
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Memory.xml
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\workspace\ia_demo\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\workspace\ia_demo\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Form1.resources
+C:\workspace\ia_demo\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\workspace\ia_demo\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\workspace\ia_demo\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\workspace\ia_demo\WindowsFormsApp2\obj\x64\Debug\WindowsF.EA766B00.Up2Date
+C:\workspace\ia_demo\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.exe
+C:\workspace\ia_demo\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.pdb
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe.config
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.pdb
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\Basler.Pylon.dll
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.dll
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Buffers.dll
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.dll
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Memory.dll
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\Basler.Pylon.xml
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.xml
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Buffers.xml
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.pdb
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Drawing.Common.xml
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Memory.xml
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\vs_workspace\ia_demo\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\vs_workspace\ia_demo\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Form1.resources
+C:\vs_workspace\ia_demo\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\vs_workspace\ia_demo\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\vs_workspace\ia_demo\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\vs_workspace\ia_demo\WindowsFormsApp2\obj\x64\Debug\WindowsF.EA766B00.Up2Date
+C:\vs_workspace\ia_demo\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.exe
+C:\vs_workspace\ia_demo\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.pdb
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\Newtonsoft.Json.dll
+C:\workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\Newtonsoft.Json.xml
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\Newtonsoft.Json.dll
+C:\vs_workspace\ia_demo\WindowsFormsApp2\bin\x64\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,18 @@
+{
+  "binaryThresh": 103,
+  "binaryThresh2": 111,
+  "defectbinaryThresh": 80,
+  "defectArea": 80,
+  "detectLimitSize": 265,
+  "feederViveMaxHeight": 8000,
+  "feederViveMinHeight": 35000,
+  "feederViveDulation": 500,
+  "feederAfterGrabDuration": 300,
+  "maxFeederViveCount": 3,
+  "feederVivePower": 25,
+  "HopperViveDulation": 1500,
+  "xPixelRate": -0.131818,
+  "yPixelRate": 0.131818,
+  "x_offset": 96.829,
+  "y_offset": 390.328
+}
